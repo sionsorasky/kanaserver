@@ -341,7 +341,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section2::before {
-	background: url('../images/section2.jpg') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('../images/2024-07-24_16.04.31.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 
 /*section3の設定*/
