@@ -350,7 +350,7 @@ section {
 	color: #fff;	/*文字色*/
 }
 #section3::before {
-	background: url('../images/section3.jpg') no-repeat center center / cover;	/*背景画像の読み込み*/
+	background: url('../images/2024-07-22_18.01.48.png') no-repeat center center / cover;	/*背景画像の読み込み*/
 }
 
 /*section4の設定*/
